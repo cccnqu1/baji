@@ -1,0 +1,18 @@
+# 這是註解
+node_modules
+*.bak
+*.exe
+*.pem
+*.blend
+*.zip
+*.rar
+*.mpg
+*.wmv
+*.avi
+*.odp
+*.odt
+*.ppt
+*.doc
+*.xls
+*.md
+*.exe
